@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="badget.jar" size="4919" download="eager" />
+    <jar href="badget.jar" size="5260" download="eager" />
   </resources>
   <application-desc main-class="budget.Main"  name="badget" >
   </application-desc>
